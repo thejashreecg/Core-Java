@@ -37,14 +37,21 @@ java version "23.0.1"
 Open File Explorer and navigate to Program Files in C Drive:
 
 C:\Program Files\Java
+
 C:\Program Files\Java\jdk-23
+
 C:\Program Files\Java\jdk-23\bin
 
 Copy the bin folder path.
 
-Go to Windows Settings → Search for "Environment Variables".Click Edit the system environment variables → Click Environment Variables.
+Go to Windows Settings → Search for "Environment Variables".
 
-Under System Variables and User Variables, find Path → Click Edit.Click New, then paste the copied Java bin path.Click OK to save the changes.
+Click Edit the system environment variables → Click Environment Variables.
+
+Under System Variables and User Variables, find Path → Click Edit.Click New, 
+
+then paste the copied Java bin path.Click OK to save the changes.
+
 
 Step 5: Verify Java Path Configuration
 
@@ -53,6 +60,7 @@ Open Command Prompt (cmd) again.Run the command:
 javac -version
 
 If Java is configured correctly, it will display the installed Java Compiler version.Now, Java is successfully installed and configured on your system.
+
 
 # How To Run A Program
 
