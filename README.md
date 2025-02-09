@@ -61,6 +61,20 @@ Now, Java is successfully installed and configured on your system
 
 # How To Run A Program
 
+Step-01 :- Write A Java Program in NotePad save as extension Example.java
+Step-02 :- copy the path where u have saved the example.java folder
+step-03 :- Open Cmd Your Java Folder
+C:\Users\91829\Desktop\JAVA>
+
+C:\Users\91829\Desktop\JAVA>javac Example.java
+
+C:\Users\91829\Desktop\JAVA>java Example
+Hello World!
+
+
+
+
+
 
 
 
