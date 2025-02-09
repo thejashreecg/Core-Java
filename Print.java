@@ -8,9 +8,9 @@ class Print
 		System.out.println();
 
                 System.out.print("---Print----");
-		System.out.println(1);
+		System.out.print(1);
 		System.out.print('a');
 		System.out.print("java");
-		System.out.println();
+		System.out.print();
 	}
 }
